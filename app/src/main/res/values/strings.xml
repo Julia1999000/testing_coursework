@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tutsplusespressotesting</string>
+    <string name="txtSuccess">Success</string>
+    <string name="txtFailure">Failure</string>
+    <string name="nameUser">user</string>
+    <string name="passwordUser">1234</string>
+</resources>
